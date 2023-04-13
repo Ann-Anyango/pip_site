@@ -1,0 +1,45 @@
+.list{
+    text-align: center;
+}
+.list ul{
+    display: inline-flex;
+    list-style: none;
+    color: darkgreen;
+    font-style: italic;
+    color: aqua;
+}
+.list ul li{
+    width: 85px;
+    margin: 32px;
+    
+    box-sizing: border-box;
+    padding-right: 20%;
+}
+
+.list ul li a{
+    text-decoration: none;
+    color:rgb(29, 26, 26);
+}
+.list-One{
+
+ padding-left: 15px;
+padding-top: 18px;
+padding-bottom: 15px;
+padding-right: 15px;
+border-radius: 4%;
+border-style: none;
+background-color: #f1f3f5;
+}
+.name{
+    display: flex;
+    justify-content: space-around;
+}
+.contact{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:#2b8a3e;
+}
+/* .locat{
+    margin-right: 34%;
+    display: flex;
+} */

@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1047px){
+    .teatype{
+      
+
+
+
+    }
+
+    
+}
+
+@media(max-width: 560px){
+    .line{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-top: 20px; 
+    
+    }
+}
+@media only screen and (max-width: 320px){
+    .home{
+    text-align: center;
+    gap: 34%;
+    }
+
+}
+    
+
